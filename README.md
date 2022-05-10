@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder-freak
+- 👋 Hi, I’m @coder-freak DHANUSH B
 - 👀 I’m interested in CSE,learning new technologies!!
 - 🌱 I’m currently learning JAVA and typescript languages!!
 
